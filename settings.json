@@ -1,35 +1,25 @@
 {
-    "remote.SSH.remotePlatform": {
-        "10.20.23.250": "linux",
-        "10.50.40.168": "linux"
-    },
-    "cmake.configureOnOpen": true,
-    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Administrator\\Oracle\\oracle.oracledevtools",
-    "oracledevtools.download.otherFolder": "C:\\Users\\Administrator\\downloads",
-    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Administrator\\Oracle\\network\\admin",
-    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Administrator\\Oracle\\network\\admin",
-    "[oraclesql]": {
-        "editor.suggest.showSnippets": true,
-        "editor.quickSuggestions": {
-            "comments": "on",
-            "strings": "on",
-            "other": "on"
-        }
-    },
-    "cmake.cmakePath": "D:\\Tools\\Cmake\\cmake-3.29.0\\bin\\cmake.exe",
-    "cmake.additionalCompilerSearchDirs": [
-        "D:\\Tools\\Mingw\\mingw32-13.2\\bin"
-    ],
-    "cmake.generator": "MinGW Makefiles",
-    "tabnine.experimentalAutoImports": true,
-    "cmake.showOptionsMovedNotification": false,
-    "explorer.confirmDelete": false,
-    "files.autoSaveDelay": 0,
+    "workbench.colorTheme": "Default Light+",
+    "security.workspace.trust.untrustedFiles": "open",
     "files.autoSave": "afterDelay",
-    "C_Cpp.intelliSenseEngineFallback": "enabled",
-    "vscode-edge-devtools.webhintInstallNotification": true,
-    "cmake.loggingLevel": "warning",
+    "files.autoSaveDelay": 0,
+    "files.autoSaveWhenNoErrors": true,
+    "cloudmusic.cache.path": "",
+    "explorer.confirmDragAndDrop": false,
+    "files.encoding": "gbk",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        "files.autoSaveWhenNoErrors",
+        "files.autoSaveDelay",
+        "files.autoSave",
+        "files.refactoring.autoSave",
+        "files.autoSaveWorkspaceFilesOnly"
+    ],
     "cmake.options.advanced": {
+
         "build": {
             "statusBarVisibility": "inherit",
             "inheritDefault": "visible"
@@ -43,6 +33,21 @@
             "inheritDefault": "visible"
         }
     },
-    "cmake.showConfigureWithDebuggerNotification": false,
-    "editor.formatOnPaste": true
+    "cmake.configureOnOpen": true,
+    "C_Cpp.default.compilerPath": "D:/Programs/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.cppStandard": "c++17",
+    "explorer.confirmDelete": false,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "",
+    "C_Cpp.formatting": "clangFormat",
+    "editor.defaultFormatter": "xaver.clang-format",
+    "C_Cpp.clang_format_style": "file:E:\\CodeStyle\\.clang-format",
+    "files.exclude": {
+        "**/*.aps": true,
+        "**/*.vcx*": true
+    },
+    "C_Cpp.clang_format_path": "D:\\LLVM\\bin\\clang-format.exe"
 }
