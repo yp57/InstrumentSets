@@ -1,0 +1,48 @@
+{
+    "remote.SSH.remotePlatform": {
+        "10.20.23.250": "linux",
+        "10.50.40.168": "linux"
+    },
+    "cmake.configureOnOpen": true,
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Administrator\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\Administrator\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Administrator\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Administrator\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "cmake.cmakePath": "D:\\Tools\\Cmake\\cmake-3.29.0\\bin\\cmake.exe",
+    "cmake.additionalCompilerSearchDirs": [
+        "D:\\Tools\\Mingw\\mingw32-13.2\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles",
+    "tabnine.experimentalAutoImports": true,
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDelete": false,
+    "files.autoSaveDelay": 0,
+    "files.autoSave": "afterDelay",
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "cmake.loggingLevel": "warning",
+    "cmake.options.advanced": {
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    },
+    "cmake.showConfigureWithDebuggerNotification": false,
+    "editor.formatOnPaste": true
+}
